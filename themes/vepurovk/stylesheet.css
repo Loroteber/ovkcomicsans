@@ -1,0 +1,6 @@
+
+body, input, div, select, h1, h2, h3, h4, button, span {font-family: "Comic Sans MS", "Comic Sans", cursive !important}
+
+.page_header { 
+    background: url("/themepack/comicsans/0.0.0.1/resource/header.png") !important;
+}
